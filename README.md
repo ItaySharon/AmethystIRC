@@ -1,5 +1,7 @@
-PurpleIRC
+AmethystIRC
 =========
+
+## This is a fork of PurpleIRC with a bunch of hotfixes ##
 
 PurpleIRC is a Minecraft Bukkit plugin that connects to IRC as a bot. It will relay messages between the game and IRC. 
 It uses the PircBotX API. https://code.google.com/p/pircbotx/
